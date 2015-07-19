@@ -1,0 +1,45 @@
+body{
+  font-family: "georgia";
+  background-color: #0e5aef;
+}
+
+h1 {
+  color:#028900;
+  text-align: center;
+}
+
+h3 {
+  color: #0b1a7d;
+  padding-top:0;
+}
+
+p {
+  color:blue;
+}
+
+.header{
+  display:block;
+  background: url("images/pencils_header_medium.jpg");
+  background-repeat: repeat-x;
+  height: 100px;
+}
+
+.description{
+  display: inline-block;
+  background-color: white;
+  opacity: 0.8;
+  margin-left: 1%;
+  padding: 10px;
+  width: 50%;
+  border-radius: 5px;
+}
+
+.left_column{
+  display:block;
+  float:left;
+  background-color: #79d671;
+  opacity: 0.8;
+  width : 20%;
+  border-radius: 5px;
+  padding: 10px;
+}
